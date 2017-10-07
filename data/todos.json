@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Finish ToDo App",
+        "status": "In Progress",
+        "priority": "Medium"
+    },
+    {
+        "id": 2,
+        "name": "Learn Angular",
+        "status": "In Progress",
+        "priority": "Medium"
+    },
+    {
+        "id": 3,
+        "name": "Buy All The Beers",
+        "status": "Todo",
+        "priority": "High"
+    }
+]
