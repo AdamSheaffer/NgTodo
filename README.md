@@ -9,11 +9,11 @@
 
 | Method   | Endpoint   | Description               |
 | ---------|:-----------| ------------------------: |
-| GET      | /todos     | Get all tasks             |
-| GET      | /todo/{id} | Get task by Id            |
-| POST     | /todo      | Create new task           |
-| PUT      | /todo      | Update task               |
-| DELETE   | /todo/{id} | Delete task with given Id |
+| GET      | /api//todos     | Get all tasks             |
+| GET      | /api/todo/{id} | Get task by Id            |
+| POST     | /api/todo      | Create new task           |
+| PUT      | /api/todo      | Update task               |
+| DELETE   | /api/todo/{id} | Delete task with given Id |
 
 ### To run server:
 *Note: This will have to change once the angular side of development begins*
